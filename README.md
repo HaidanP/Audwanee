@@ -41,6 +41,14 @@ npm run dev
 - TailwindCSS
 - OpenRouter API
 
+## Screenshots
+
+Visit the live application to see Audwanee in action with real-time assignment analysis and visual feedback.
+
+## Contributing
+
+We welcome contributions! Please feel free to submit issues and pull requests.
+
 ## License
 
 MIT License
